@@ -1,6 +1,6 @@
-#### Hi there, I'm Shrey - aka [Svaity][website] 👋
+### Hi there, I'm Shrey - aka [Svaity][website] 👋
 
-###### I'm a Software Engineer, Developer and a Design freak!!
+#### I'm a Software Engineer, Developer and a Design freak!!
 - 🌱 I’m currently learning ML / Data Science 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar / drums and video games
@@ -28,7 +28,7 @@
 
 #### Listening to this Right Now 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-readme-coral.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ---
 
