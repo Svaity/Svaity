@@ -26,7 +26,7 @@
 <br />
 
 ##### **Now Playing** on Spotify
-[<img src="https://spotify-readme-coral.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-readme-coral.vercel.app/api/spotify-playing" alt="Svaity Spotify Playing" width="350" />](https://open.spotify.com/user/21yc6unz2kbsexelriihdkpsi)
 
 ---
 
