@@ -1,9 +1,8 @@
 ### Hi there, I'm Shrey - aka [Svaity][website] 👋
 
 #### I'm a Software Engineer, Developer and a Design freak!!
-- 🌱 I’m currently learning ML / Data Science 
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar / drums and video games
+- 🥅 I’m currently learning ML / Data Science 
+- ⚡ Fun fact: I love to sing, play guitar / drums and read
 
 #### Languages and Tools:
 
@@ -26,10 +25,9 @@
 
 <br />
 
-#### Listening to this Right Now 
+**Now Playing** on Spotify
 
 [<img src="https://spotify-readme-coral.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ---
 
 <details>
@@ -37,8 +35,8 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ten-ashy.vercel.app/api?username=Svaity&show_icons=true&hide_border=true" />
 
+![Top Langs](https://github-readme-stats-ten-ashy.vercel.app/api/top-langs/?username=svaity&layout=compact)
 </details>
-
 
 [website]: https://svaity.netlify.app/
 [instagram]: https://www.instagram.com/shreyvaity/
