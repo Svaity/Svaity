@@ -33,7 +33,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ten-ashy.vercel.app/api?username=Svaity&show_icons=true&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats-ten-ashy.vercel.app/api/top-langs/?username=svaity&layout=compact)
 </details>
