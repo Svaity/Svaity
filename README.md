@@ -1,8 +1,8 @@
 ### Hi there, I'm Shrey - aka [Svaity][website] 👋
 
 #### I'm a Software Engineer, Developer and a Design freak!!
-- 🥅 I’m currently learning ML / Data Science 
-- ⚡ Fun fact: I love to sing, play guitar / drums and read
+- 🥅 I love building UI's. Frontend is my new found hobby
+- ⚡ Fun fact: I love to code, sing, play guitar / drums and read
 
 #### Languages and Tools:
 
