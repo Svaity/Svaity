@@ -1,6 +1,6 @@
 ### Hi there, I'm Shrey - aka [Svaity][website] 👋
 
-#### I'm a Software Engineer, Developer and a Design freak!!
+#### I'm a Software Engineer, Developer and a Design snob!!
 - 🥅 I love building UI's. Frontend is my new found hobby
 - ⚡ Fun fact: I love to code, sing, play guitar / drums and read
 
