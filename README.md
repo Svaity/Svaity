@@ -1,7 +1,7 @@
 ### Hi there, I'm Shrey - aka [Svaity][website] 👋
 
 #### I'm a Software Engineer, Developer and a Design snob!!
-- 🥅 My expertise lies with Web Development, Automation and Data Engineering
+- 🥅  Well versed in Web Development and Data Engineering
 - ⚡ Fun fact: I love to code, sing, play guitar / drums and read
 
 #### Languages and Tools:
